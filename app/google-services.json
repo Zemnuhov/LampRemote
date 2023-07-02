@@ -1,0 +1,281 @@
+{
+  "project_info": {
+    "project_number": "1075379492394",
+    "firebase_url": "https://stressapp-a8d16-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stressapp-a8d16",
+    "storage_bucket": "stressapp-a8d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075379492394:android:4483cadd30b2f5d07b5553",
+        "android_client_info": {
+          "package_name": "com.example.core_firebase_auth_impl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075379492394-fr65u11voekrcj0r7im3s3mosct7s24b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.core_firebase_auth_impl",
+            "certificate_hash": "0a98b9ad96113052e4057d18885f35db1775cd73"
+          }
+        },
+        {
+          "client_id": "1075379492394-l2h9s01dcb5rhmqhmerd8oc119m1199r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.core_firebase_auth_impl",
+            "certificate_hash": "bc943104bec5846b0205d6a26e642daa2765ce72"
+          }
+        },
+        {
+          "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07bSOrHGU1tfbdiygsjDjjcOBC5tNmtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075379492394:android:7ba6cfd9ca4e64a77b5553",
+        "android_client_info": {
+          "package_name": "com.example.feature_screen_user_impl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075379492394-41equjnof5gqt5qhp9e00u5b6d6nlv45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feature_screen_user_impl",
+            "certificate_hash": "bc943104bec5846b0205d6a26e642daa2765ce72"
+          }
+        },
+        {
+          "client_id": "1075379492394-u8gp0vg2qmmrc949ts94fbi9o090cs0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feature_screen_user_impl",
+            "certificate_hash": "0a98b9ad96113052e4057d18885f35db1775cd73"
+          }
+        },
+        {
+          "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07bSOrHGU1tfbdiygsjDjjcOBC5tNmtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075379492394:android:e23de538eda0da567b5553",
+        "android_client_info": {
+          "package_name": "com.neurotech.data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075379492394-3pb39631rcm6uahvio048o4o9fmu29kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.data",
+            "certificate_hash": "0a98b9ad96113052e4057d18885f35db1775cd73"
+          }
+        },
+        {
+          "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07bSOrHGU1tfbdiygsjDjjcOBC5tNmtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075379492394:android:645130a47ce656357b5553",
+        "android_client_info": {
+          "package_name": "com.neurotech.modulestressapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075379492394-132gv3flq94i5pga5ndd42orejvkmf6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.modulestressapp",
+            "certificate_hash": "8291f4f49b3b9cf39a95870bed9dc4064b4bce08"
+          }
+        },
+        {
+          "client_id": "1075379492394-fokffg43r0kubcmjtdsij5ul16p1d6s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.modulestressapp",
+            "certificate_hash": "5d7d62ac188f0417e3d4ff8bdd862d6588f80ff5"
+          }
+        },
+        {
+          "client_id": "1075379492394-kli2n88ilorelmepn57l995dq8q12gs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.modulestressapp",
+            "certificate_hash": "c9dad83fe0eb6dea5561d7c0eb041dd5fb7ccc31"
+          }
+        },
+        {
+          "client_id": "1075379492394-ldors148dh3v0fv36val4ml38rj1n7s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.modulestressapp",
+            "certificate_hash": "bc943104bec5846b0205d6a26e642daa2765ce72"
+          }
+        },
+        {
+          "client_id": "1075379492394-qj0qnbnrellvh79ko9ub976445n8adjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.modulestressapp",
+            "certificate_hash": "0a98b9ad96113052e4057d18885f35db1775cd73"
+          }
+        },
+        {
+          "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07bSOrHGU1tfbdiygsjDjjcOBC5tNmtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075379492394:android:b1ef3223450a9ee87b5553",
+        "android_client_info": {
+          "package_name": "com.neurotech.stressapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075379492394-i95ldqj154svjbo0vnq4v3m4046bimqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurotech.stressapp",
+            "certificate_hash": "0a98b9ad96113052e4057d18885f35db1775cd73"
+          }
+        },
+        {
+          "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07bSOrHGU1tfbdiygsjDjjcOBC5tNmtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075379492394:android:0488688b006028c37b5553",
+        "android_client_info": {
+          "package_name": "com.novsu.lampremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075379492394-cdfkhoml063au9ce14s6rrdi01umnsjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novsu.lampremote",
+            "certificate_hash": "5d7d62ac188f0417e3d4ff8bdd862d6588f80ff5"
+          }
+        },
+        {
+          "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07bSOrHGU1tfbdiygsjDjjcOBC5tNmtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075379492394-j4i7faaigs4vucb9mlvdeduprjgl36r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url 'https://jitpack.io' }
+        jcenter()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        jcenter()
+    }
+}
+rootProject.name = "LampRemote"
+include ':app'
+include ':utils'
+include ':navigation'
+include ':navigation-api'
+include ':core-ble-device-scan-impl'
+include ':core-ble-device-scan-api'
+include ':core-ble-communication-impl'
+include ':core-ble-communication-api'
+include ':core-local-storage-impl'
+include ':core-local-storage-api'
+include ':feature-main-screen'
+include ':feature-device-screen'

@@ -110,7 +110,7 @@ class MainActivity : ComponentActivity() {
                     ) { innerPadding ->
                         NavHost(
                             navController = navController,
-                            startDestination = Screen.Device.route,
+                            startDestination = Screen.Main.route,
                             modifier = Modifier.padding(innerPadding)
                         ) {
                             composable(Screen.Main.route) { mainScreen.Draw() }
